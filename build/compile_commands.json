@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/cekl/fla/build",
+  "command": "/usr/bin/g++-9    -g   -std=gnu++14 -o CMakeFiles/fla.dir/fla-project/main.cpp.o -c /home/cekl/fla/fla-project/main.cpp",
+  "file": "/home/cekl/fla/fla-project/main.cpp"
+},
+{
+  "directory": "/home/cekl/fla/build",
+  "command": "/usr/bin/g++-9    -g   -std=gnu++14 -o CMakeFiles/fla.dir/fla-project/message.cpp.o -c /home/cekl/fla/fla-project/message.cpp",
+  "file": "/home/cekl/fla/fla-project/message.cpp"
+},
+{
+  "directory": "/home/cekl/fla/build",
+  "command": "/usr/bin/g++-9    -g   -std=gnu++14 -o CMakeFiles/fla.dir/fla-project/pda.cpp.o -c /home/cekl/fla/fla-project/pda.cpp",
+  "file": "/home/cekl/fla/fla-project/pda.cpp"
+},
+{
+  "directory": "/home/cekl/fla/build",
+  "command": "/usr/bin/g++-9    -g   -std=gnu++14 -o CMakeFiles/fla.dir/fla-project/utils.cpp.o -c /home/cekl/fla/fla-project/utils.cpp",
+  "file": "/home/cekl/fla/fla-project/utils.cpp"
+},
+{
+  "directory": "/home/cekl/fla/build",
+  "command": "/usr/bin/g++-9    -g   -std=gnu++14 -o CMakeFiles/fla.dir/fla-project/TM.cpp.o -c /home/cekl/fla/fla-project/TM.cpp",
+  "file": "/home/cekl/fla/fla-project/TM.cpp"
+}
+]

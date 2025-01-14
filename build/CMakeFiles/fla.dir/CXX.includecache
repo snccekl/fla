@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cekl/fla/fla-project/TM.cpp
+TM.h
+/home/cekl/fla/fla-project/TM.h
+message.h
+/home/cekl/fla/fla-project/message.h
+
+/home/cekl/fla/fla-project/TM.h
+bits/stdc++.h
+-
+
+/home/cekl/fla/fla-project/main.cpp
+bits/stdc++.h
+-
+pda.h
+/home/cekl/fla/fla-project/pda.h
+utils.h
+/home/cekl/fla/fla-project/utils.h
+message.h
+/home/cekl/fla/fla-project/message.h
+TM.h
+/home/cekl/fla/fla-project/TM.h
+
+/home/cekl/fla/fla-project/message.h
+bits/stdc++.h
+-
+
+/home/cekl/fla/fla-project/pda.h
+bits/stdc++.h
+-
+
+/home/cekl/fla/fla-project/utils.h
+bits/stdc++.h
+-
+

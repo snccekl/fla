@@ -1,0 +1,1 @@
+/usr/bin/g++-9  -g   CMakeFiles/fla.dir/fla-project/main.cpp.o CMakeFiles/fla.dir/fla-project/message.cpp.o CMakeFiles/fla.dir/fla-project/pda.cpp.o CMakeFiles/fla.dir/fla-project/utils.cpp.o CMakeFiles/fla.dir/fla-project/TM.cpp.o  -o fla 
